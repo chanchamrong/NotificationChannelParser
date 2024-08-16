@@ -1,0 +1,14 @@
+D:\Maxima Document\Desktop\moi_sys\NotificationParser\NotificationParser\bin\Debug\net8.0\NotificationParser.exe
+D:\Maxima Document\Desktop\moi_sys\NotificationParser\NotificationParser\bin\Debug\net8.0\NotificationParser.deps.json
+D:\Maxima Document\Desktop\moi_sys\NotificationParser\NotificationParser\bin\Debug\net8.0\NotificationParser.runtimeconfig.json
+D:\Maxima Document\Desktop\moi_sys\NotificationParser\NotificationParser\bin\Debug\net8.0\NotificationParser.dll
+D:\Maxima Document\Desktop\moi_sys\NotificationParser\NotificationParser\bin\Debug\net8.0\NotificationParser.pdb
+D:\Maxima Document\Desktop\moi_sys\NotificationParser\NotificationParser\obj\Debug\net8.0\NotificationParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maxima Document\Desktop\moi_sys\NotificationParser\NotificationParser\obj\Debug\net8.0\NotificationParser.AssemblyInfoInputs.cache
+D:\Maxima Document\Desktop\moi_sys\NotificationParser\NotificationParser\obj\Debug\net8.0\NotificationParser.AssemblyInfo.cs
+D:\Maxima Document\Desktop\moi_sys\NotificationParser\NotificationParser\obj\Debug\net8.0\NotificationParser.csproj.CoreCompileInputs.cache
+D:\Maxima Document\Desktop\moi_sys\NotificationParser\NotificationParser\obj\Debug\net8.0\NotificationParser.dll
+D:\Maxima Document\Desktop\moi_sys\NotificationParser\NotificationParser\obj\Debug\net8.0\refint\NotificationParser.dll
+D:\Maxima Document\Desktop\moi_sys\NotificationParser\NotificationParser\obj\Debug\net8.0\NotificationParser.pdb
+D:\Maxima Document\Desktop\moi_sys\NotificationParser\NotificationParser\obj\Debug\net8.0\NotificationParser.genruntimeconfig.cache
+D:\Maxima Document\Desktop\moi_sys\NotificationParser\NotificationParser\obj\Debug\net8.0\ref\NotificationParser.dll
